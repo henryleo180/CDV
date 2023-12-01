@@ -18,3 +18,6 @@ https://www.synapse.org/#!Synapse:syn3049712/wiki/74630 )
 
 ## Other Notes:
 - Analysis Technique(s): MSE for both networks (video object detection and causal graphs)
+
+## Note:
+casual graph between players, draw betweeen play important than ohters, jasons matrix, square matrix, has a each node player in the game row of column - one players, playeri has row i and col i, for element relationship of matrix i j - player i important to j. If there is one i , 0 -> / clsmt each role of jsons matrix, diff for each player -> one row, so clstm -> which player infulence that network stacj akk riws
